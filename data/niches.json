@@ -1,22 +1,22 @@
 {
     "domain": "mens.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "남성 스킨케어",
+        "남성 의류",
+        "면도 및 제모"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang mens items."
+        "남성 스킨케어": {
+            "topic": "Men skincare sets, shaving creams, aftershaves.",
+            "role": "Men grooming expert."
         },
-        "수유/이유식": {
-            "topic": "mens bottle sterilizers, mens food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "남성 의류": {
+            "topic": "Men suits, casual shirts, men slacks.",
+            "role": "Men fashion curator."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "면도 및 제모": {
+            "topic": "Electric shavers, razor blades, nose hair trimmers.",
+            "role": "Men personal care reviewer."
         }
     }
 }
